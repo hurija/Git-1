@@ -1,0 +1,7 @@
+# Ignoruje wybrane pliki lub katalogi
+
+# ignoruj plik: Git 1.iml
+Git 1.iml
+
+# ignoruj katalog .idea
+.idea/
