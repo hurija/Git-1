@@ -10,6 +10,8 @@ public class Main {
         System.out.println("Hello World!");//?
         System.out.println("Publikujemy pierwszy program!!!");
         System.out.println("druga zmiana w projekcie");
-	    System.out.println("Edycja przez współpracownika!!!");
+        System.out.println("Edycja przez współpracownika!!!");
+        // konflikt rozwiązany
+        System.out.println("Nowa funkcjonalność projektu");
     }
 }
