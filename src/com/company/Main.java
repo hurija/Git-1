@@ -9,5 +9,8 @@ public class Main {
 	// write your code here
         System.out.println("Hello World!");
         System.out.println("Publikujemy pierwszy program!!!");
+	    
+	System.out.println("Edycja przez współpracownika!!!");
+	    
     }
 }
